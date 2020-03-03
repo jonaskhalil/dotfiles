@@ -1,9 +1,9 @@
 # Jonas' dotfiles
 
 ## Getting started
-`git clone https://github.com/jonaskhalil/dotfiles.git ~/.dotfiles`
-`cd ~/.dotfiles`
-`./install`
+- `git clone https://github.com/jonaskhalil/dotfiles.git ~/.dotfiles`
+- `cd ~/.dotfiles`
+- `./install`
 
 ## Additional files
 LICENSE .............. Speaks for itself
