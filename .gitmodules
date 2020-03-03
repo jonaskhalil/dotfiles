@@ -1,0 +1,13 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
+[submodule "vim/pack/bundle/start/sensible"]
+	path = vim/pack/bundle/start/sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim/pack/bundle/start/sleuth"]
+	path = vim/pack/bundle/start/sleuth
+	url = https://tpope.io/vim/sleuth.git
+[submodule "vim/pack/bundle/start/airline"]
+	path = vim/pack/bundle/start/airline
+	url = https://github.com/vim-airline/vim-airline.git
