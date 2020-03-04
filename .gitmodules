@@ -11,3 +11,6 @@
 [submodule "vim/pack/bundle/start/airline"]
 	path = vim/pack/bundle/start/airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/pack/bundle/start/nerdtree"]
+	path = vim/pack/bundle/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
