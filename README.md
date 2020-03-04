@@ -6,10 +6,15 @@
 - `./install`
 
 ## Additional files
-- LICENSE .............. Speaks for itself
-- README.md ............ This file, obviously
+- `LICENSE`  
+  > Speaks for itself
+- `README.md`  
+  > This file, obviously
 
 ## Dotbot
-- dotbot/ .............. lightweight dotfiles installer
-- install .............. (copy of `dotbot/tools/git-submodule/install`) checks out the appropriate version of Dotbot and calls the full Dotbot installer
-- install.conf.yaml .... Dotbot configuration
+- `dotbot/`  
+  > lightweight dotfiles installer
+- `install`  
+  > (copy of `dotbot/tools/git-submodule/install`) checks out the appropriate version of Dotbot and calls the full Dotbot installer
+- `install.conf.yaml`  
+  > Dotbot configuration
