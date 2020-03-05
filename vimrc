@@ -13,3 +13,10 @@ inoremap <Right> <NOP>
 " Open the [e]xplorer using the e key (for now)
 noremap <leader>e :NERDTreeToggle<CR>
 
+
+if executable('fzf')
+    :packadd fzf.vim
+    set rtp+=/usr/local/opt/fzf
+    noremap <leader>o :Files<CR>
+    noremap <leader>h :Helptags!<CR>
+endif
