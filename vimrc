@@ -1,3 +1,6 @@
+nnoremap <SPACE> <NOP>
+let mapleader=" "
+
 " don't use arrow keys in normal mode
 noremap <Up> <NOP>
 noremap <Down> <NOP>
@@ -19,4 +22,6 @@ if executable('fzf')
     set rtp+=/usr/local/opt/fzf
     noremap <leader>o :Files<CR>
     noremap <leader>h :Helptags!<CR>
+    noremap <leader>s :Tags<CR>
 endif
+
